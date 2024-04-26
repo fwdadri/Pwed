@@ -1,0 +1,9 @@
+.waraper{
+width: 420px;
+background-color: rgb(13, 126, 22);
+color: aliceblue;
+display: flex;
+justify-content: center;
+margin: center
+;
+}
